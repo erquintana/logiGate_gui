@@ -1,4 +1,6 @@
 # logiGate_gui
+![Project Status](https://img.shields.io/badge/Project-In%20Progress-yellow)
+
 LogiGate GUI is a project intended to display logic gates using a gui, so, the user can navigate through the GUI selecting which gate diagram and truth table wants to see. This is intended to be a quick project to practice and refresh C++ skills. The GUI concept and design was developed by my self using graphics design editing tools.
 
 ## Interface design:
